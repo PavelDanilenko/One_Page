@@ -85,14 +85,12 @@ header nav ul li:hover a, header nav ul li.active a{
 
 .about_us .text h2{
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
 }
 .about_us .text p{
     font-size: 11px;
     line-height: 20px;
     color: #aeaeae;
-    margin-bottom: 40px;
-    font-family: 'Nunito Sans', sans-serif;
+    margin-bottom: 45px;
     text-align: center;
 }
 .about_us .text .img_signature{
