@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9439f626-da0a-47d1-8768-212e96060bc3" name="Default Changelist" comment="">
+    <list default="true" id="9439f626-da0a-47d1-8768-212e96060bc3" name="Default Changelist" comment="bloc_3">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_ua.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -59,18 +62,35 @@
       <option name="presentableId" value="Default" />
       <updated>1577470493766</updated>
       <workItem from="1577470495207" duration="1886000" />
-      <workItem from="1577473040787" duration="155000" />
+      <workItem from="1577473040787" duration="460000" />
+      <workItem from="1578160888526" duration="4350000" />
+      <workItem from="1578243912336" duration="6852000" />
+      <workItem from="1578398739904" duration="9313000" />
     </task>
+    <task id="LOCAL-00001" summary="twqrtrwe">
+      <created>1577473210806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577473210806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="twqrtrwe" />
+    <option name="LAST_COMMIT_MESSAGE" value="twqrtrwe" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1577473189615">
+    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578406077127">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1577473189615" />
+    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578406077127" />
     <state x="152" y="66" key="DiffContextDialog" timestamp="1577473141930">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -83,9 +103,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="674" y="139" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577473175614" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1577473041558">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1577473213714">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1577473041558" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1577473213714" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578398742258">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578398742258" />
   </component>
 </project>
