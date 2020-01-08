@@ -155,3 +155,32 @@ header nav ul li:hover a, header nav ul li.active a{
     padding-top: 101px;
     padding-bottom: 101px;
 }
+
+.info .icon{
+    float: left;
+    margin-right: 10%;
+    display: inline-block;
+    text-align: center;
+}
+
+.work_process{
+    background-color: #ffffff;
+    padding-top: 101px;
+    padding-bottom: 101px;
+}
+
+.work_process h3{
+    font-size: 21px;
+    color: #191919;
+    margin-bottom: 41px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.work_process p{
+    line-height: 35px;
+    font-size: 11px;
+    color: #787878;
+    text-align: center;
+    margin-bottom: 60px;
+    font-family: 'Nunito Sans', sans-serif;
+}

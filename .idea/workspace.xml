@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9439f626-da0a-47d1-8768-212e96060bc3" name="Default Changelist" comment="bloc_3_professional_skills">
+    <list default="true" id="9439f626-da0a-47d1-8768-212e96060bc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about_ua.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,8 @@
       <workItem from="1577473040787" duration="460000" />
       <workItem from="1578160888526" duration="4350000" />
       <workItem from="1578243912336" duration="6852000" />
-      <workItem from="1578398739904" duration="9559000" />
+      <workItem from="1578398739904" duration="15422000" />
+      <workItem from="1578475468359" duration="7138000" />
     </task>
     <task id="LOCAL-00001" summary="twqrtrwe">
       <created>1577473210806</created>
@@ -78,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578412583523</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bloc_3_professional_skills">
+      <created>1578412826951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578412826951</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bloc_3_professional_skills">
+      <created>1578412893288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578412893288</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,10 +109,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="bloc_3_professional_skills" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578412826417">
+    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578497035764">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578412826417" />
+    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578497035764" />
     <state x="152" y="66" key="DiffContextDialog" timestamp="1577473141930">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -112,9 +129,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578412830545" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578398742258">
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578475484647">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578398742258" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578475484647" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578475970174">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1578475970174" />
   </component>
 </project>
