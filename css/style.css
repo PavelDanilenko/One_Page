@@ -184,3 +184,97 @@ header nav ul li:hover a, header nav ul li.active a{
     margin-bottom: 60px;
     font-family: 'Nunito Sans', sans-serif;
 }
+.work_process .content{
+    max-width: 100%;
+}
+.preview{
+    background-color: #10c9c3;
+    padding-top: 183px;
+    padding-bottom: 179px;
+}
+.preview p{
+    text-align: center;
+    font-size: 17px;
+    color: #ffffff;
+    margin-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.preview .text{
+    font-size: 9px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.picture{
+    background-color: #ffffff;
+    padding-top: 67px;
+    padding-bottom: 68px;
+}
+.picture .icon {
+    display: inline-block;
+    text-align: center;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.project .container{
+    max-width: 671px;
+    margin: auto;
+    padding-top: 103px;
+    padding-bottom: 100px;
+}
+.project h3{
+    text-align: center;
+    font-size: 21px;
+    color: #1d1d1d;
+    margin-bottom: 41px;
+}
+.project p{
+    text-align: center;
+    font-size: 11px;
+    color: #787878;
+    margin-bottom: 41px;
+}
+
+form .name{
+    float: left;
+    width: 325px;
+    line-height: 48px;
+    border: none;
+}
+
+form .email{
+    float: right;
+    width: 325px;
+    line-height: 48px;
+    border: none;
+}
+form .name .email:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+form .title{
+    width: 100%;
+    margin-top: 30px;
+    line-height: 48px;
+    border: none;
+    margin-bottom: 30px;
+}
+form .comment{
+    display: block;
+    width: 100%;
+    resize: none;
+    height: 170px;
+    margin-bottom: 28px;
+}
+form .send{
+    display: block;
+   width: 180px;
+    margin: auto;
+    font-size: 9px;
+    text-transform: uppercase;
+    color: #f4fbec;
+    line-height: 54px;
+    background-color: #10c9c3;
+
+}

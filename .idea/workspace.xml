@@ -65,7 +65,18 @@
       <workItem from="1578160888526" duration="4350000" />
       <workItem from="1578243912336" duration="6852000" />
       <workItem from="1578398739904" duration="15422000" />
-      <workItem from="1578475468359" duration="7138000" />
+      <workItem from="1578475468359" duration="10204000" />
+      <workItem from="1578643925171" duration="105000" />
+      <workItem from="1578644128432" duration="72000" />
+      <workItem from="1578644416978" duration="51000" />
+      <workItem from="1578644506173" duration="15000" />
+      <workItem from="1578644538172" duration="160000" />
+      <workItem from="1578644770668" duration="4000" />
+      <workItem from="1578644817383" duration="25000" />
+      <workItem from="1578644882625" duration="88000" />
+      <workItem from="1578645059677" duration="41000" />
+      <workItem from="1578645211769" duration="456000" />
+      <workItem from="1578645972496" duration="18065000" />
     </task>
     <task id="LOCAL-00001" summary="twqrtrwe">
       <created>1577473210806</created>
@@ -95,7 +106,42 @@
       <option name="project" value="LOCAL" />
       <updated>1578412893288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="bloc_5_work_process">
+      <created>1578497065035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578497065035</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bloc_5_work_process">
+      <created>1578497110655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578497110655</updated>
+    </task>
+    <task id="LOCAL-00007" summary="bloc_5_work_process">
+      <created>1578497144288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578497144288</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bloc_5_work_process">
+      <created>1578497194614</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578497194614</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bloc_5_work_process">
+      <created>1578497221415</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578497221415</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +152,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="twqrtrwe" />
     <MESSAGE value="bloc_3_professional_skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="bloc_3_professional_skills" />
+    <MESSAGE value="bloc_5_work_process" />
+    <option name="LAST_COMMIT_MESSAGE" value="bloc_5_work_process" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578497194117">
+    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578667379341">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578497194117" />
+    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578667379341" />
     <state x="152" y="66" key="DiffContextDialog" timestamp="1577473141930">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -125,14 +172,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="674" y="139" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577473175614" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1578497199903">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1578497223550">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578497199903" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578475484647">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578497223550" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578645973412">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578475484647" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578645973412" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578475970174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
