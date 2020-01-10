@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9439f626-da0a-47d1-8768-212e96060bc3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_ua.html" beforeDir="false" afterPath="$PROJECT_DIR$/about_ua.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1578644882625" duration="88000" />
       <workItem from="1578645059677" duration="41000" />
       <workItem from="1578645211769" duration="456000" />
-      <workItem from="1578645972496" duration="18065000" />
+      <workItem from="1578645972496" duration="18840000" />
     </task>
     <task id="LOCAL-00001" summary="twqrtrwe">
       <created>1577473210806</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578497221415</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bloc_6-8_form_img_content">
+      <created>1578667488833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578667488833</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,13 +158,14 @@
     <MESSAGE value="twqrtrwe" />
     <MESSAGE value="bloc_3_professional_skills" />
     <MESSAGE value="bloc_5_work_process" />
-    <option name="LAST_COMMIT_MESSAGE" value="bloc_5_work_process" />
+    <MESSAGE value="bloc_6-8_form_img_content" />
+    <option name="LAST_COMMIT_MESSAGE" value="bloc_6-8_form_img_content" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578667379341">
+    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1578667485140">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578667379341" />
+    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1578667485140" />
     <state x="152" y="66" key="DiffContextDialog" timestamp="1577473141930">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -172,14 +178,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="674" y="139" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1577473175614" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1578497223550">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1578667503372">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578497223550" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578645973412">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1578667503372" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1578674475002">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578645973412" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578674475002" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1578475970174">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
